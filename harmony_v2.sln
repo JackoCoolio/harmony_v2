@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "harmony_v2", "harmony_v2.vcxproj", "{7461AF5A-B439-4257-ABED-221F010FF414}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "harmony_v2_setup", "..\harmony_v2_setup\harmony_v2_setup.vdproj", "{137CE615-89FC-4715-B9C6-CC487F54BDFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7461AF5A-B439-4257-ABED-221F010FF414}.Debug|x64.ActiveCfg = Debug|x64
+		{7461AF5A-B439-4257-ABED-221F010FF414}.Debug|x64.Build.0 = Debug|x64
+		{7461AF5A-B439-4257-ABED-221F010FF414}.Debug|x86.ActiveCfg = Debug|x64
+		{7461AF5A-B439-4257-ABED-221F010FF414}.Release|x64.ActiveCfg = Release|x64
+		{7461AF5A-B439-4257-ABED-221F010FF414}.Release|x64.Build.0 = Release|x64
+		{7461AF5A-B439-4257-ABED-221F010FF414}.Release|x86.ActiveCfg = Release|x64
+		{137CE615-89FC-4715-B9C6-CC487F54BDFB}.Debug|x64.ActiveCfg = Debug
+		{137CE615-89FC-4715-B9C6-CC487F54BDFB}.Debug|x86.ActiveCfg = Debug
+		{137CE615-89FC-4715-B9C6-CC487F54BDFB}.Release|x64.ActiveCfg = Release
+		{137CE615-89FC-4715-B9C6-CC487F54BDFB}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E021DBB-A145-4790-8E9E-79C4BFFD2E2F}
+	EndGlobalSection
+EndGlobal
